@@ -1,0 +1,19 @@
+fieldset {
+    background-color: lightpink;
+    color:blue;
+    width: 400px;
+    height: 1020px;
+    border-radius: 30px;
+
+}
+
+.flexbox {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+body{
+    text-align: center;
+    
+}
